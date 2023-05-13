@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  background-color: skyblue;
+  padding: 30px 30px;
+}
+
+.primary {
+  color : blue;
+}
+.font-xl{
+  font-size: 50px;
+}
+.size {
+  font-style: italic;
+}
+ol {
+  list-style-type: 'number';
+}
